@@ -2,4 +2,4 @@
 
 Final project for Honors - Probability at Los Andes University, Colombia.
 
-Look PDF for more info (in Spanish)
+Look respuestas.pdf for more info (in Spanish)
